@@ -1,0 +1,87 @@
+\documentclass[a4paper, 11pt, oneside]{extbook}\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[italian]{babel} %Lingua italiana per gli standard e gli accenti
+\usepackage{geometry}
+\usepackage{courier}
+\usepackage{pdfpages}
+\newtheorem{example}{Esempio}[section]
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{prop}[theorem]{Proposizione}
+\usepackage{amssymb}
+%\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{minted}
+\usepackage{tikz}
+\usepackage[bookmarks]{hyperref}
+\newgeometry{
+	left=   1.5 in,
+	bottom= 1.5 in,
+	right=  1 in,
+	top=    1 in
+}
+
+\usepackage{fancyhdr}
+
+% Grafica
+\usepackage{graphicx,pstricks}
+\usepackage{graphics}
+\usepackage{subfigure}
+
+%
+%Algorithm
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\setlength\headheight{44.2pt}
+%Page Style
+\usepackage{setspace}
+%\setstretch{2.5} 
+\doublespace
+%
+%%\cfoot{\thepage}
+%\lhead[]{}
+%\rhead[]{\leftmark}
+
+\pagestyle{fancy}{
+%	\lhead{\includegraphics[scale=0.3]{img/logo.png}}
+	%	\rhead{\footnotesize{\leftmark}}
+	\rhead{\footnotesize{\leftmark}}
+	%	\rfoot{\thepage}
+}
+
+%\fancyfoot[CE,CO]{\leftmark}
+%\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\footrulewidth}{1pt}
+\linespread{1}
+
+%Other
+\usepackage{comment}
+\usepackage{amsmath}
+
+%Testo riempitivo
+\usepackage{lipsum}
+
+
+
+
+\begin{document}
+	\input{cap/title}
+	\frontmatter						%Numerazione romana
+	
+
+	{\setstretch{1.5}					%Indice
+		\tableofcontents
+	}
+	
+	\backmatter							%Inizio numerazione capitoli
+	\mainmatter							%Numerazione pagine
+	\input{cap/serie_taylor}
+	\input{cap/eulero_esplicito}
+	\input{cap/applicazioni}
+	
+	
+	\backmatter							%Fine numerazione capitoli (Per le conclusioni, Appendici ecc)
+	
+
+	
+\end{document}

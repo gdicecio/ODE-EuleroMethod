@@ -1,0 +1,27 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}Serie di Taylor}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Metodo di Eulero - Esplicito}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Interpretazione Geometrica}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Implementazione Matlab}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Errori}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Errore di Discretizzazione}{6}{subsection.2.3.1}%
+\contentsline {subsubsection}{Consistenza}{6}{section*.2}%
+\contentsline {subsection}{\numberline {2.3.2}Errore di Troncamento Locale}{7}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Errore di Troncamento Globale}{7}{subsection.2.3.3}%
+\contentsline {subsubsection}{Convergenza}{8}{section*.3}%
+\contentsline {subsection}{\numberline {2.3.4}Errore di Rounf-Off}{10}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Errore Totale}{11}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}Stabilit\IeC {\`a}}{12}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Stabilit\IeC {\`a} assoluta}{13}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Indice di condizionamento}{14}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Zero-Stabilit\IeC {\`a}}{15}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Esempio semplice}{16}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Stabilit\IeC {\`a}}{16}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Errore Totale}{17}{subsection.2.5.2}%
+\contentsline {subsubsection}{Errore di Troncamento Globale}{20}{section*.4}%
+\contentsline {subsubsection}{Errore di Round-Off}{21}{section*.5}%
+\contentsline {subsection}{\numberline {2.5.3}Numero di intervalli ottimo}{23}{subsection.2.5.3}%
+\contentsline {chapter}{\numberline {3}Applicazioni}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sistemi di Equazioni Differenziali}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sistema Massa-Molla}{25}{section.3.2}%

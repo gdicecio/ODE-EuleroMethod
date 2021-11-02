@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{	}\PYG{n+nb}{loglog}\PYG{p}{(}\PYG{n}{N}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{e\PYGZus{}tot}\PYG{p}{,}\PYG{l+s}{\PYGZsq{}LineWidth\PYGZsq{}}\PYG{p}{,}\PYG{l+m+mi}{2}\PYG{p}{);}
+\PYG{+w}{	}\PYG{n}{hold}\PYG{+w}{ }\PYG{l+s}{on}\PYG{p}{;}
+\PYG{+w}{	}\PYG{n+nb}{loglog}\PYG{p}{(}\PYG{n}{N}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{e\PYGZus{}tot}\PYG{p}{,}\PYG{+w}{ }\PYG{l+s}{\PYGZsq{}+\PYGZsq{}}\PYG{p}{);}
+\PYG{+w}{	}\PYG{n+nb}{grid}\PYG{p}{;}
+\end{Verbatim}
