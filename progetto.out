@@ -1,21 +1,21 @@
-\BOOKMARK [0][-]{chapter.1}{Serie di Taylor}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Metodo di Eulero - Esplicito}{}% 2
-\BOOKMARK [1][-]{section.2.1}{Interpretazione Geometrica}{chapter.2}% 3
-\BOOKMARK [1][-]{section.2.2}{Implementazione Matlab}{chapter.2}% 4
-\BOOKMARK [1][-]{section.2.3}{Errori}{chapter.2}% 5
-\BOOKMARK [2][-]{subsection.2.3.1}{Errore di Discretizzazione}{section.2.3}% 6
-\BOOKMARK [2][-]{subsection.2.3.2}{Errore di Troncamento Locale}{section.2.3}% 7
-\BOOKMARK [2][-]{subsection.2.3.3}{Errore di Troncamento Globale}{section.2.3}% 8
-\BOOKMARK [2][-]{subsection.2.3.4}{Errore di Rounf-Off}{section.2.3}% 9
-\BOOKMARK [2][-]{subsection.2.3.5}{Errore Totale}{section.2.3}% 10
-\BOOKMARK [1][-]{section.2.4}{Stabilit\340}{chapter.2}% 11
-\BOOKMARK [2][-]{subsection.2.4.1}{Stabilit\340 assoluta}{section.2.4}% 12
-\BOOKMARK [2][-]{subsection.2.4.2}{Indice di condizionamento}{section.2.4}% 13
-\BOOKMARK [2][-]{subsection.2.4.3}{Zero-Stabilit\340}{section.2.4}% 14
-\BOOKMARK [1][-]{section.2.5}{Esempio semplice}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.5.1}{Stabilit\340}{section.2.5}% 16
-\BOOKMARK [2][-]{subsection.2.5.2}{Errore Totale}{section.2.5}% 17
-\BOOKMARK [2][-]{subsection.2.5.3}{Numero di intervalli ottimo}{section.2.5}% 18
-\BOOKMARK [0][-]{chapter.3}{Applicazioni}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Sistemi di Equazioni Differenziali}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.2}{Sistema Massa-Molla}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.1}{Metodo di Eulero}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Serie di Taylor}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Interpretazione Geometrica}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Implementazione Matlab}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Errori}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{Errore di Discretizzazione}{section.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.4.2}{Errore di Troncamento Locale}{section.1.4}% 7
+\BOOKMARK [2][-]{subsection.1.4.3}{Errore di Troncamento Globale}{section.1.4}% 8
+\BOOKMARK [2][-]{subsection.1.4.4}{Errore di Rounf-Off}{section.1.4}% 9
+\BOOKMARK [2][-]{subsection.1.4.5}{Errore Totale}{section.1.4}% 10
+\BOOKMARK [1][-]{section.1.5}{Stabilit\340}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.5.1}{Stabilit\340 assoluta}{section.1.5}% 12
+\BOOKMARK [2][-]{subsection.1.5.2}{Indice di condizionamento}{section.1.5}% 13
+\BOOKMARK [2][-]{subsection.1.5.3}{Zero-Stabilit\340}{section.1.5}% 14
+\BOOKMARK [1][-]{section.1.6}{Esempio semplice}{chapter.1}% 15
+\BOOKMARK [2][-]{subsection.1.6.1}{Stabilit\340}{section.1.6}% 16
+\BOOKMARK [2][-]{subsection.1.6.2}{Errore Totale}{section.1.6}% 17
+\BOOKMARK [2][-]{subsection.1.6.3}{Numero di intervalli ottimo}{section.1.6}% 18
+\BOOKMARK [0][-]{chapter.2}{Applicazioni}{}% 19
+\BOOKMARK [1][-]{section.2.1}{Sistemi di Equazioni Differenziali}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.2}{Sistema Massa-Molla}{chapter.2}% 21

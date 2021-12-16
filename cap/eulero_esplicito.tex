@@ -1,4 +1,5 @@
-\chapter{Metodo di Eulero - Esplicito}
+\chapter[Metodo di Eulero]{Metodo di Eulero - Esplicito}
+
 Il metodo di Eulero è un semplice algoritmo per ricavare una soluzione numerica ad'\textit{equazione differenziale ordinaria} (ODE).
 Sia il seguente problema di Cauchy:
 \begin{equation}
@@ -9,6 +10,20 @@ Sia il seguente problema di Cauchy:
 	\end{cases}
 \end{equation}
 con $t \in I = [t_{0},T]$ e $T$ prefissato.
+\\Prima di procedere con la descrizione della tecnica si può fare una breve ripresa del concetto di Serie di Taylor.
+
+\section{Serie di Taylor}
+La serie di Taylor di una funzione in un punto è la rappresentazione della funzione come serie di termini calcolati a partire dalle derivate della funzione stessa nel punto.
+\\Sia $f(x)$ definita a valori reali, o complessi, infinite volte derivabile, la serie di Taylor centrata nel punto $x_0$ è la seguente serie di potenze:
+\begin{equation*}
+	f(x) = f(x_{0}) + f'(x_{0})(x-x_{0}) + \dfrac{f''(x_{0})}{2}(x-x_{0})^{2}	+ \dfrac{f'''(x_{0})}{6}(x-x_{0})^{3} + ...
+\end{equation*} 
+In generale:
+\begin{equation}
+	f(x) = \sum_{n=0}^{\infty} \dfrac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}
+\end{equation}
+A questo punto si può continuare con la descrizione.
+\vspace{0.5cm}
 \\Si discretizza l'intervallo $I$ in $n$ sottointervalli:
 \begin{figure}[H]
 	\centering

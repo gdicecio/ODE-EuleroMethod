@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.11.2)  2 NOV 2021 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.11.2)  16 DEC 2021 17:44
 entering extended mode
 **./progetto.tex
 (progetto.tex
@@ -1527,13 +1527,13 @@ Non-PDF special ignored!
 
 {C:/Users/Giuseppe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/lo
 go.png>]) (progetto.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
 ("C:\Users\Giuseppe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 ("C:\Users\Giuseppe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.f
 d"
@@ -1545,53 +1545,48 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 
-] (cap/serie_taylor.tex
+] (cap/eulero_esplicito.tex
 Capitolo 1.
-) (cap/eulero_esplicito.texpdfTeX warning (ext4): destination with the same ide
-ntifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \chapter
-            {Metodo di Eulero - Esplicito} [1
 
-
-
-]
-Capitolo 2.
-
-Overfull \hbox (15.25504pt too wide) in paragraph at lines 2--4
+Overfull \hbox (15.25504pt too wide) in paragraph at lines 3--5
 \T1/cmr/m/n/10.95 Il me-to-do di Eu-le-ro è un sem-pli-ce al-go-rit-mo per ri-c
 a-va-re una so-lu-zio-ne nu-me-ri-ca ad'\T1/cmr/m/it/10.95 equazione
  []
 
-<img/discretizzazione.png, id=144, 243.15843pt x 64.74188pt>
+<img/discretizzazione.png, id=132, 243.15843pt x 64.74188pt>
 File: img/discretizzazione.png Graphic file (type png)
 <use img/discretizzazione.png>
-Package pdftex.def Info: img/discretizzazione.png  used on input line 15.
+Package pdftex.def Info: img/discretizzazione.png  used on input line 30.
 (pdftex.def)             Requested size: 166.7306pt x 44.39236pt.
-[2
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39 \end{equation*}
+                     [1
+
+
 
  <./img/discretizzazione.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
 
-Overfull \hbox (10.43053pt too wide) in paragraph at lines 44--58
+Overfull \hbox (10.43053pt too wide) in paragraph at lines 59--73
 [] 
  []
 
-<matlab/interpretazione_geometrica.png, id=157, 798.73407pt x 452.4403pt>
+<matlab/interpretazione_geometrica.png, id=151, 798.73407pt x 452.4403pt>
 File: matlab/interpretazione_geometrica.png Graphic file (type png)
 <use matlab/interpretazione_geometrica.png>
 Package pdftex.def Info: matlab/interpretazione_geometrica.png  used on input l
-ine 62.
+ine 77.
 (pdftex.def)             Requested size: 416.83289pt x 236.11256pt.
-[3 <./matlab/interpretazione_geometrica.png>]
+[2]
 \openout3 = `progetto.pyg'.
 
-
-(_minted-progetto/default-pyg-prefix.pygstyle)
+ (_minted-progetto/default-pyg-prefix.pygstyle)
 (_minted-progetto/default.pygstyle)
 (_minted-progetto/FFAFC3063895A2CFD097DE0553E3446E198D1C707A1D9476B00F908A2CB84
 489.pygtex
@@ -1606,7 +1601,7 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9> not available
 (Font)              Font shape `T1/pcr/m/sl' tried instead on input line 3.
-)
+ [3 <./matlab/interpretazione_geometrica.png>])
 \openout3 = `progetto.pyg'.
 
 
@@ -1616,7 +1611,7 @@ LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9> not available
 
 
 (_minted-progetto/D20AE0A025D187AF06E3A8E2275C3CCC198D1C707A1D9476B00F908A2CB84
-489.pygtex [4]
+489.pygtex
 LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1
 1.
 
@@ -1627,12 +1622,12 @@ File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 LaTeX Font Info:    Font shape `TS1/pcr/m/it' in size <9> not available
 (Font)              Font shape `TS1/pcr/m/sl' tried instead on input line 11.
 )
-<matlab/esempio1_eulero.png, id=180, 785.18344pt x 452.4403pt>
+<matlab/esempio1_eulero.png, id=172, 785.18344pt x 452.4403pt>
 File: matlab/esempio1_eulero.png Graphic file (type png)
 <use matlab/esempio1_eulero.png>
-Package pdftex.def Info: matlab/esempio1_eulero.png  used on input line 150.
+Package pdftex.def Info: matlab/esempio1_eulero.png  used on input line 165.
 (pdftex.def)             Requested size: 416.83289pt x 240.19263pt.
- [5 <./matlab/esempio1_eulero.png>] [6] [7] [8]
+ [4] [5 <./matlab/esempio1_eulero.png>] [6] [7] [8]
 \openout3 = `progetto.pyg'.
 
 
@@ -1643,96 +1638,96 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/it' in size <9> not available
 LaTeX Font Info:    Font shape `T1/pcr/b/it' in size <9> not available
 (Font)              Font shape `T1/pcr/b/sl' tried instead on input line 19.
 )
-<matlab/errore_troncamento_globale.png, id=217, 794.2172pt x 459.96844pt>
+<matlab/errore_troncamento_globale.png, id=220, 794.2172pt x 459.96844pt>
 File: matlab/errore_troncamento_globale.png Graphic file (type png)
 <use matlab/errore_troncamento_globale.png>
 Package pdftex.def Info: matlab/errore_troncamento_globale.png  used on input l
-ine 376.
+ine 391.
 (pdftex.def)             Requested size: 416.83289pt x 241.40984pt.
- [9] [10 <./matlab/errore_troncamento_globale.png>]
+ [9 <./matlab/errore_troncamento_globale.png>] [10]
 <matlab/errore_totale.png, id=236, 798.73407pt x 465.23813pt>
 File: matlab/errore_totale.png Graphic file (type png)
 <use matlab/errore_totale.png>
-Package pdftex.def Info: matlab/errore_totale.png  used on input line 441.
+Package pdftex.def Info: matlab/errore_totale.png  used on input line 456.
 (pdftex.def)             Requested size: 416.83289pt x 242.79129pt.
- [11]
-Overfull \hbox (10.43053pt too wide) in paragraph at lines 448--461
+
+Overfull \hbox (10.43053pt too wide) in paragraph at lines 463--476
 []
  []
 
-<matlab/stabilita.png, id=245, 796.47563pt x 453.94594pt>
+[11 <./matlab/errore_totale.png>]
+<matlab/stabilita.png, id=246, 796.47563pt x 453.94594pt>
 File: matlab/stabilita.png Graphic file (type png)
 <use matlab/stabilita.png>
-Package pdftex.def Info: matlab/stabilita.png  used on input line 481.
+Package pdftex.def Info: matlab/stabilita.png  used on input line 496.
 (pdftex.def)             Requested size: 416.83289pt x 237.57018pt.
-[12 <./matlab/errore_totale.png>] [13 <./matlab/stabilita.png>] [14] [15]
+ [12 <./matlab/stabilita.png>] [13] [14]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/EC9540467D4A14E0214C916E75554178198D1C707A1D9476B00F908A2CB84
-489.pygtex)
+489.pygtex [15])
 <matlab/esercizio1_stabilita.png, id=275, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_stabilita.png Graphic file (type png)
 <use matlab/esercizio1_stabilita.png>
-Package pdftex.def Info: matlab/esercizio1_stabilita.png  used on input line 66
-3.
+Package pdftex.def Info: matlab/esercizio1_stabilita.png  used on input line 67
+8.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
 <matlab/esercizio1_stabilita2.png, id=276, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_stabilita2.png Graphic file (type png)
 <use matlab/esercizio1_stabilita2.png>
 Package pdftex.def Info: matlab/esercizio1_stabilita2.png  used on input line 6
-68.
+83.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [16]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/595334CBDF34A3B13B3A1A161F606915198D1C707A1D9476B00F908A2CB84
-489.pygtex [17 <./matlab/esercizio1_stabilita.png (PNG copy)> <./matlab/eserciz
+489.pygtex [16 <./matlab/esercizio1_stabilita.png (PNG copy)> <./matlab/eserciz
 io1_stabilita2.png (PNG copy)>])
-<matlab/esercizio1_soluzioni.png, id=288, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni.png, id=283, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni.png>
-Package pdftex.def Info: matlab/esercizio1_soluzioni.png  used on input line 70
-4.
+Package pdftex.def Info: matlab/esercizio1_soluzioni.png  used on input line 71
+9.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio1_soluzioni_zoom1.png, id=289, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom1.png, id=284, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom1.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom1.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom1.png  used on input l
-ine 710.
+ine 725.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom2.png, id=290, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom2.png, id=285, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom2.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom2.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom2.png  used on input l
-ine 711.
+ine 726.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom3.png, id=291, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom3.png, id=286, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom3.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom3.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom3.png  used on input l
-ine 712.
+ine 727.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom4.png, id=292, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom4.png, id=287, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom4.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom4.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom4.png  used on input l
-ine 713.
+ine 728.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
- [18 <./matlab/esercizio1_soluzioni.png (PNG copy)>]
+ [17 <./matlab/esercizio1_soluzioni.png (PNG copy)>]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/454413451477DDA6A2266D117EA97BFF198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_totale.png, id=298, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_totale.png, id=294, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_totale.png Graphic file (type png)
 <use matlab/esercizio1_errore_totale.png>
 Package pdftex.def Info: matlab/esercizio1_errore_totale.png  used on input lin
-e 731.
+e 746.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [19 <./matlab/esercizio1_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio1_
+ [18 <./matlab/esercizio1_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio1_
 soluzioni_zoom2.png (PNG copy)> <./matlab/esercizio1_soluzioni_zoom3.png (PNG c
 opy)> <./matlab/esercizio1_soluzioni_zoom4.png (PNG copy)> <./matlab/esercizio1
 _errore_totale.png (PNG copy)>]
@@ -1741,43 +1736,43 @@ _errore_totale.png (PNG copy)>]
 
 (_minted-progetto/588EF5250BF3CEB99CD9D909D6FD276A198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_troncamento.png, id=309, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_troncamento.png, id=305, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_troncamento.png Graphic file (type png)
 <use matlab/esercizio1_errore_troncamento.png>
 Package pdftex.def Info: matlab/esercizio1_errore_troncamento.png  used on inpu
-t line 776.
+t line 791.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [20]
+ [19]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/2DE3395EFD1693F86CD60C37C62F2019198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_roundoff.png, id=318, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_roundoff.png, id=314, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_roundoff.png Graphic file (type png)
 <use matlab/esercizio1_errore_roundoff.png>
 Package pdftex.def Info: matlab/esercizio1_errore_roundoff.png  used on input l
-ine 816.
+ine 831.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [21 <./matlab/esercizio1_errore_troncamento.png (PNG copy)>]
-<matlab/esercizio1_errore_somma.png, id=326, 981.6675pt x 520.19344pt>
+ [20 <./matlab/esercizio1_errore_troncamento.png (PNG copy)>]
+<matlab/esercizio1_errore_somma.png, id=322, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_somma.png Graphic file (type png)
 <use matlab/esercizio1_errore_somma.png>
 Package pdftex.def Info: matlab/esercizio1_errore_somma.png  used on input line
- 823.
+ 838.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio1_errore_confronto.png, id=327, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_confronto.png, id=323, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_confronto.png Graphic file (type png)
 <use matlab/esercizio1_errore_confronto.png>
 Package pdftex.def Info: matlab/esercizio1_errore_confronto.png  used on input 
-line 834.
+line 849.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
 
-[22 <./matlab/esercizio1_errore_roundoff.png (PNG copy)> <./matlab/esercizio1_e
-rrore_somma.png (PNG copy)>]) (cap/applicazioni.tex [23 <./matlab/esercizio1_er
+[21 <./matlab/esercizio1_errore_roundoff.png (PNG copy)> <./matlab/esercizio1_e
+rrore_somma.png (PNG copy)>]) (cap/applicazioni.tex [22 <./matlab/esercizio1_er
 rore_confronto.png (PNG copy)>]
-Capitolo 3.
-[24
+Capitolo 2.
+[23
 
 ]
 \openout3 = `progetto.pyg'.
@@ -1790,45 +1785,45 @@ Capitolo 3.
 
 (_minted-progetto/A1C037B6BD0CAE6B80DFDBF3E19D2F78198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<img/massa-molla.png, id=349, 271.0125pt x 141.82988pt>
+<img/massa-molla.png, id=345, 271.0125pt x 141.82988pt>
 File: img/massa-molla.png Graphic file (type png)
 <use img/massa-molla.png>
 Package pdftex.def Info: img/massa-molla.png  used on input line 101.
 (pdftex.def)             Requested size: 208.41644pt x 109.07515pt.
- [25]
+ [24]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/2572350F95D702B8E3F92044C0B03A74198D1C707A1D9476B00F908A2CB84
-489.pygtex [26 <./img/massa-molla.png (PNG copy)>])
-<matlab/esercizio2_soluzioni.png, id=358, 981.6675pt x 520.19344pt>
+489.pygtex [25 <./img/massa-molla.png (PNG copy)>])
+<matlab/esercizio2_soluzioni.png, id=354, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_soluzioni.png Graphic file (type png)
 <use matlab/esercizio2_soluzioni.png>
 Package pdftex.def Info: matlab/esercizio2_soluzioni.png  used on input line 16
 4.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio2_soluzioni_zoom1.png, id=359, 981.6675pt x 520.19344pt>
+<matlab/esercizio2_soluzioni_zoom1.png, id=355, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_soluzioni_zoom1.png Graphic file (type png)
 <use matlab/esercizio2_soluzioni_zoom1.png>
 Package pdftex.def Info: matlab/esercizio2_soluzioni_zoom1.png  used on input l
 ine 170.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [27 <./matlab/esercizio2_soluzioni.png (PNG copy)>]
-<matlab/esercizio2_errori_confronto.png, id=367, 981.6675pt x 520.19344pt>
+ [26 <./matlab/esercizio2_soluzioni.png (PNG copy)>]
+<matlab/esercizio2_errori_confronto.png, id=363, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_errori_confronto.png Graphic file (type png)
 <use matlab/esercizio2_errori_confronto.png>
 Package pdftex.def Info: matlab/esercizio2_errori_confronto.png  used on input 
 line 177.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-) [28 <./matlab/esercizio2_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio2
+) [27 <./matlab/esercizio2_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio2
 _errori_confronto.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
  (progetto.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `progetto.out' has not changed.
-(rerunfilecheck)             Checksum: 0C90823D86C84D76618C572D2C3788B1;1442.
+(rerunfilecheck)             Checksum: 890CC38959EECB8DC4D3A3C53E6A4516;1441.
 runsystem(del progetto.pyg)...executed.
 
  )
@@ -1837,23 +1832,23 @@ runsystem(del progetto.pyg)...executed.
 ### semi simple group (level 1) entered at line 39 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 36163 strings out of 492484
- 687800 string characters out of 3120242
+ 36158 strings out of 492484
+ 688062 string characters out of 3120242
  953560 words of memory out of 3000000
- 39710 multiletter control sequences out of 15000+200000
+ 39709 multiletter control sequences out of 15000+200000
  561797 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,67p,796b,5068s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,15n,67p,796b,5015s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
 nappen/ec/dpi600\ecrm0800.pk>{C:/Users/Giuseppe/AppData/Local/Programs/MiKTeX 2
 .9/fonts/enc/dvips/base/8r.enc} <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\Giuseppe\AppData\Local\M
 iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Giuseppe\Ap
 pData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\User
-s\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440
+s\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900
 .pk> <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecrm0900.pk> <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecsl1095.pk> <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\font
+i600\ecsl1095.pk> <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx1440.pk> <C:\Users\Giuseppe\AppData\Local\MiKTeX\2.9\font
 s/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Giuseppe\AppData\Local\Mi
 KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Giuseppe\App
 Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users
@@ -1883,9 +1878,9 @@ bols/msbm10.pfb><C:/Users/Giuseppe/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 onts/type1/urw/courier/ucrbo8a.pfb><C:/Users/Giuseppe/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Giuseppe/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on progetto.pdf (30 pages, 1154488 bytes).
+Output written on progetto.pdf (29 pages, 1152996 bytes).
 PDF statistics:
- 936 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
+ 931 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 
