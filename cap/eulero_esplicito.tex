@@ -231,7 +231,11 @@ Il problema discretizzato con il metodo di Eulero $M_h(P)$ è una buona approssi
 	\lim_{h \rightarrow 0} T(t,h) = \lim_{h \rightarrow 0} \dfrac{y(t+h)-y(t)}{h} - y'(t) = 0
 \end{equation*} 
 Il rapporto incrementale tende alla derivata per $h \rightarrow 0$.
-\\Il metodo di Eulero è consistente di ordine 1.
+\\Per misurare l'accuratezza (o consistenza), basta applicare la definizione di \textit{O-Grande}, per $h \rightarrow 0$, su $T(t,h)$ per notare che:
+\begin{equation*}
+	T(t,h) = O(h)
+\end{equation*} 
+Il metodo di Eulero è consistente di ordine 1.
 
 \subsection{Errore di Troncamento Locale}
 L'errore di troncamento locale (LTE) equivale a:

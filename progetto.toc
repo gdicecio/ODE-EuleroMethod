@@ -11,17 +11,17 @@
 \contentsline {subsection}{\numberline {1.4.3}Errore di Troncamento Globale}{7}{subsection.1.4.3}%
 \contentsline {subsubsection}{Convergenza}{8}{section*.3}%
 \contentsline {subsection}{\numberline {1.4.4}Errore di Rounf-Off}{10}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Errore Totale}{10}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.5}Errore Totale}{11}{subsection.1.4.5}%
 \contentsline {section}{\numberline {1.5}Stabilit\IeC {\`a}}{12}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}Stabilit\IeC {\`a} assoluta}{13}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Indice di condizionamento}{13}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Zero-Stabilit\IeC {\`a}}{14}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Esempio semplice}{15}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Stabilit\IeC {\`a}}{15}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.5.2}Indice di condizionamento}{14}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Zero-Stabilit\IeC {\`a}}{15}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Esempio semplice}{16}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Stabilit\IeC {\`a}}{16}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Errore Totale}{17}{subsection.1.6.2}%
-\contentsline {subsubsection}{Errore di Troncamento Globale}{19}{section*.4}%
-\contentsline {subsubsection}{Errore di Round-Off}{20}{section*.5}%
-\contentsline {subsection}{\numberline {1.6.3}Numero di intervalli ottimo}{22}{subsection.1.6.3}%
-\contentsline {chapter}{\numberline {2}Applicazioni}{23}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Sistemi di Equazioni Differenziali}{23}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Sistema Massa-Molla}{24}{section.2.2}%
+\contentsline {subsubsection}{Errore di Troncamento Globale}{20}{section*.4}%
+\contentsline {subsubsection}{Errore di Round-Off}{21}{section*.5}%
+\contentsline {subsection}{\numberline {1.6.3}Numero di intervalli ottimo}{23}{subsection.1.6.3}%
+\contentsline {chapter}{\numberline {2}Applicazioni}{24}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sistemi di Equazioni Differenziali}{24}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Sistema Massa-Molla}{25}{section.2.2}%

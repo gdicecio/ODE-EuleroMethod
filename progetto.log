@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.11.2)  16 DEC 2021 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.11.2)  17 DEC 2021 12:37
 entering extended mode
 **./progetto.tex
 (progetto.tex
@@ -1642,92 +1642,92 @@ LaTeX Font Info:    Font shape `T1/pcr/b/it' in size <9> not available
 File: matlab/errore_troncamento_globale.png Graphic file (type png)
 <use matlab/errore_troncamento_globale.png>
 Package pdftex.def Info: matlab/errore_troncamento_globale.png  used on input l
-ine 391.
+ine 395.
 (pdftex.def)             Requested size: 416.83289pt x 241.40984pt.
- [9 <./matlab/errore_troncamento_globale.png>] [10]
+ [9] [10 <./matlab/errore_troncamento_globale.png>]
 <matlab/errore_totale.png, id=236, 798.73407pt x 465.23813pt>
 File: matlab/errore_totale.png Graphic file (type png)
 <use matlab/errore_totale.png>
-Package pdftex.def Info: matlab/errore_totale.png  used on input line 456.
+Package pdftex.def Info: matlab/errore_totale.png  used on input line 460.
 (pdftex.def)             Requested size: 416.83289pt x 242.79129pt.
-
-Overfull \hbox (10.43053pt too wide) in paragraph at lines 463--476
+ [11]
+Overfull \hbox (10.43053pt too wide) in paragraph at lines 467--480
 []
  []
 
-[11 <./matlab/errore_totale.png>]
-<matlab/stabilita.png, id=246, 796.47563pt x 453.94594pt>
+<matlab/stabilita.png, id=245, 796.47563pt x 453.94594pt>
 File: matlab/stabilita.png Graphic file (type png)
 <use matlab/stabilita.png>
-Package pdftex.def Info: matlab/stabilita.png  used on input line 496.
+Package pdftex.def Info: matlab/stabilita.png  used on input line 500.
 (pdftex.def)             Requested size: 416.83289pt x 237.57018pt.
- [12 <./matlab/stabilita.png>] [13] [14]
+[12 <./matlab/errore_totale.png>] [13 <./matlab/stabilita.png>] [14] [15]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/EC9540467D4A14E0214C916E75554178198D1C707A1D9476B00F908A2CB84
-489.pygtex [15])
+489.pygtex)
 <matlab/esercizio1_stabilita.png, id=275, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_stabilita.png Graphic file (type png)
 <use matlab/esercizio1_stabilita.png>
-Package pdftex.def Info: matlab/esercizio1_stabilita.png  used on input line 67
-8.
+Package pdftex.def Info: matlab/esercizio1_stabilita.png  used on input line 68
+2.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
 <matlab/esercizio1_stabilita2.png, id=276, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_stabilita2.png Graphic file (type png)
 <use matlab/esercizio1_stabilita2.png>
 Package pdftex.def Info: matlab/esercizio1_stabilita2.png  used on input line 6
-83.
+87.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
+ [16]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/595334CBDF34A3B13B3A1A161F606915198D1C707A1D9476B00F908A2CB84
-489.pygtex [16 <./matlab/esercizio1_stabilita.png (PNG copy)> <./matlab/eserciz
+489.pygtex [17 <./matlab/esercizio1_stabilita.png (PNG copy)> <./matlab/eserciz
 io1_stabilita2.png (PNG copy)>])
-<matlab/esercizio1_soluzioni.png, id=283, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni.png, id=288, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni.png>
-Package pdftex.def Info: matlab/esercizio1_soluzioni.png  used on input line 71
-9.
+Package pdftex.def Info: matlab/esercizio1_soluzioni.png  used on input line 72
+3.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio1_soluzioni_zoom1.png, id=284, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom1.png, id=289, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom1.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom1.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom1.png  used on input l
-ine 725.
+ine 729.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom2.png, id=285, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom2.png, id=290, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom2.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom2.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom2.png  used on input l
-ine 726.
+ine 730.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom3.png, id=286, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom3.png, id=291, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom3.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom3.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom3.png  used on input l
-ine 727.
+ine 731.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
-<matlab/esercizio1_soluzioni_zoom4.png, id=287, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_soluzioni_zoom4.png, id=292, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_soluzioni_zoom4.png Graphic file (type png)
 <use matlab/esercizio1_soluzioni_zoom4.png>
 Package pdftex.def Info: matlab/esercizio1_soluzioni_zoom4.png  used on input l
-ine 728.
+ine 732.
 (pdftex.def)             Requested size: 187.57352pt x 99.3934pt.
- [17 <./matlab/esercizio1_soluzioni.png (PNG copy)>]
+ [18 <./matlab/esercizio1_soluzioni.png (PNG copy)>]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/454413451477DDA6A2266D117EA97BFF198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_totale.png, id=294, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_totale.png, id=298, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_totale.png Graphic file (type png)
 <use matlab/esercizio1_errore_totale.png>
 Package pdftex.def Info: matlab/esercizio1_errore_totale.png  used on input lin
-e 746.
+e 750.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [18 <./matlab/esercizio1_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio1_
+ [19 <./matlab/esercizio1_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio1_
 soluzioni_zoom2.png (PNG copy)> <./matlab/esercizio1_soluzioni_zoom3.png (PNG c
 opy)> <./matlab/esercizio1_soluzioni_zoom4.png (PNG copy)> <./matlab/esercizio1
 _errore_totale.png (PNG copy)>]
@@ -1736,43 +1736,43 @@ _errore_totale.png (PNG copy)>]
 
 (_minted-progetto/588EF5250BF3CEB99CD9D909D6FD276A198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_troncamento.png, id=305, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_troncamento.png, id=309, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_troncamento.png Graphic file (type png)
 <use matlab/esercizio1_errore_troncamento.png>
 Package pdftex.def Info: matlab/esercizio1_errore_troncamento.png  used on inpu
-t line 791.
+t line 795.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [19]
+ [20]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/2DE3395EFD1693F86CD60C37C62F2019198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<matlab/esercizio1_errore_roundoff.png, id=314, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_roundoff.png, id=318, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_roundoff.png Graphic file (type png)
 <use matlab/esercizio1_errore_roundoff.png>
 Package pdftex.def Info: matlab/esercizio1_errore_roundoff.png  used on input l
-ine 831.
+ine 835.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [20 <./matlab/esercizio1_errore_troncamento.png (PNG copy)>]
-<matlab/esercizio1_errore_somma.png, id=322, 981.6675pt x 520.19344pt>
+ [21 <./matlab/esercizio1_errore_troncamento.png (PNG copy)>]
+<matlab/esercizio1_errore_somma.png, id=326, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_somma.png Graphic file (type png)
 <use matlab/esercizio1_errore_somma.png>
 Package pdftex.def Info: matlab/esercizio1_errore_somma.png  used on input line
- 838.
+ 842.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio1_errore_confronto.png, id=323, 981.6675pt x 520.19344pt>
+<matlab/esercizio1_errore_confronto.png, id=327, 981.6675pt x 520.19344pt>
 File: matlab/esercizio1_errore_confronto.png Graphic file (type png)
 <use matlab/esercizio1_errore_confronto.png>
 Package pdftex.def Info: matlab/esercizio1_errore_confronto.png  used on input 
-line 849.
+line 853.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
 
-[21 <./matlab/esercizio1_errore_roundoff.png (PNG copy)> <./matlab/esercizio1_e
-rrore_somma.png (PNG copy)>]) (cap/applicazioni.tex [22 <./matlab/esercizio1_er
+[22 <./matlab/esercizio1_errore_roundoff.png (PNG copy)> <./matlab/esercizio1_e
+rrore_somma.png (PNG copy)>]) (cap/applicazioni.tex [23 <./matlab/esercizio1_er
 rore_confronto.png (PNG copy)>]
 Capitolo 2.
-[23
+[24
 
 ]
 \openout3 = `progetto.pyg'.
@@ -1785,37 +1785,37 @@ Capitolo 2.
 
 (_minted-progetto/A1C037B6BD0CAE6B80DFDBF3E19D2F78198D1C707A1D9476B00F908A2CB84
 489.pygtex)
-<img/massa-molla.png, id=345, 271.0125pt x 141.82988pt>
+<img/massa-molla.png, id=349, 271.0125pt x 141.82988pt>
 File: img/massa-molla.png Graphic file (type png)
 <use img/massa-molla.png>
 Package pdftex.def Info: img/massa-molla.png  used on input line 101.
 (pdftex.def)             Requested size: 208.41644pt x 109.07515pt.
- [24]
+ [25]
 \openout3 = `progetto.pyg'.
 
 
 (_minted-progetto/2572350F95D702B8E3F92044C0B03A74198D1C707A1D9476B00F908A2CB84
-489.pygtex [25 <./img/massa-molla.png (PNG copy)>])
-<matlab/esercizio2_soluzioni.png, id=354, 981.6675pt x 520.19344pt>
+489.pygtex [26 <./img/massa-molla.png (PNG copy)>])
+<matlab/esercizio2_soluzioni.png, id=358, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_soluzioni.png Graphic file (type png)
 <use matlab/esercizio2_soluzioni.png>
 Package pdftex.def Info: matlab/esercizio2_soluzioni.png  used on input line 16
 4.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-<matlab/esercizio2_soluzioni_zoom1.png, id=355, 981.6675pt x 520.19344pt>
+<matlab/esercizio2_soluzioni_zoom1.png, id=359, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_soluzioni_zoom1.png Graphic file (type png)
 <use matlab/esercizio2_soluzioni_zoom1.png>
 Package pdftex.def Info: matlab/esercizio2_soluzioni_zoom1.png  used on input l
 ine 170.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
- [26 <./matlab/esercizio2_soluzioni.png (PNG copy)>]
-<matlab/esercizio2_errori_confronto.png, id=363, 981.6675pt x 520.19344pt>
+ [27 <./matlab/esercizio2_soluzioni.png (PNG copy)>]
+<matlab/esercizio2_errori_confronto.png, id=367, 981.6675pt x 520.19344pt>
 File: matlab/esercizio2_errori_confronto.png Graphic file (type png)
 <use matlab/esercizio2_errori_confronto.png>
 Package pdftex.def Info: matlab/esercizio2_errori_confronto.png  used on input 
 line 177.
 (pdftex.def)             Requested size: 416.83289pt x 220.88481pt.
-) [27 <./matlab/esercizio2_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio2
+) [28 <./matlab/esercizio2_soluzioni_zoom1.png (PNG copy)> <./matlab/esercizio2
 _errori_confronto.png (PNG copy)>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
@@ -1832,8 +1832,8 @@ runsystem(del progetto.pyg)...executed.
 ### semi simple group (level 1) entered at line 39 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 36158 strings out of 492484
- 688062 string characters out of 3120242
+ 36159 strings out of 492484
+ 688069 string characters out of 3120242
  953560 words of memory out of 3000000
  39709 multiletter control sequences out of 15000+200000
  561797 words of font info for 84 fonts, out of 3000000 for 9000
@@ -1878,9 +1878,9 @@ bols/msbm10.pfb><C:/Users/Giuseppe/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 onts/type1/urw/courier/ucrbo8a.pfb><C:/Users/Giuseppe/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Giuseppe/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on progetto.pdf (29 pages, 1152996 bytes).
+Output written on progetto.pdf (30 pages, 1154476 bytes).
 PDF statistics:
- 931 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
+ 936 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 
